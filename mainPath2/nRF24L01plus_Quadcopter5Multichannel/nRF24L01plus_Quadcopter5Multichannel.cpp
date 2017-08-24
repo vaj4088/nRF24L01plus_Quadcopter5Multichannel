@@ -34,8 +34,8 @@
 // Uncomment for Serial debug message.
 // #define RC_DEBUG
 
-const unsigned long version = 20170816 ;
-const char versionSuffix = 'e' ;
+const unsigned long version = 20170824 ;
+const char versionSuffix = 'a' ;
 //#define myRF24_NOTRANSMIT
 
 RF24 myRF24(8, 10);
